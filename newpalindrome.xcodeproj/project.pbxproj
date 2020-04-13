@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		B22C53F124421FB300F90267 /* textmanipulatio.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = textmanipulatio.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B22C53F124421FB300F90267 /* newpalindrome.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = newpalindrome.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B22C53F424421FB300F90267 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B22C53F624421FB300F90267 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		B22C53F824421FB300F90267 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		B22C53F224421FB300F90267 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B22C53F124421FB300F90267 /* textmanipulatio.app */,
+				B22C53F124421FB300F90267 /* newpalindrome.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		B22C53F024421FB300F90267 /* textmanipulatio */ = {
+		B22C53F024421FB300F90267 /* newpalindrome */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B22C540524421FB400F90267 /* Build configuration list for PBXNativeTarget "textmanipulatio" */;
+			buildConfigurationList = B22C540524421FB400F90267 /* Build configuration list for PBXNativeTarget "newpalindrome" */;
 			buildPhases = (
 				B22C53ED24421FB300F90267 /* Sources */,
 				B22C53EE24421FB300F90267 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = textmanipulatio;
+			name = newpalindrome;
 			productName = textmanipulatio;
-			productReference = B22C53F124421FB300F90267 /* textmanipulatio.app */;
+			productReference = B22C53F124421FB300F90267 /* newpalindrome.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = B22C53EC24421FB300F90267 /* Build configuration list for PBXProject "textmanipulatio" */;
+			buildConfigurationList = B22C53EC24421FB300F90267 /* Build configuration list for PBXProject "newpalindrome" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				B22C53F024421FB300F90267 /* textmanipulatio */,
+				B22C53F024421FB300F90267 /* newpalindrome */,
 			);
 		};
 /* End PBXProject section */
@@ -291,8 +291,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.patatech.textmanipulatio;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.patatech.newpalindrome;
+				PRODUCT_NAME = newpalindrome;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -309,8 +309,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.patatech.textmanipulatio;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.patatech.newpalindrome;
+				PRODUCT_NAME = newpalindrome;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -319,7 +319,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B22C53EC24421FB300F90267 /* Build configuration list for PBXProject "textmanipulatio" */ = {
+		B22C53EC24421FB300F90267 /* Build configuration list for PBXProject "newpalindrome" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B22C540324421FB400F90267 /* Debug */,
@@ -328,7 +328,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B22C540524421FB400F90267 /* Build configuration list for PBXNativeTarget "textmanipulatio" */ = {
+		B22C540524421FB400F90267 /* Build configuration list for PBXNativeTarget "newpalindrome" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B22C540624421FB400F90267 /* Debug */,
